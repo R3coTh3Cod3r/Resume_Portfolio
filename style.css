@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font-family: "Lato", sans-serif;
     font-size: x-large;
@@ -41,3 +42,14 @@ ul li.active a
     color: #ffffff;
 }
 
+=======
+.carousel-item {
+    height: 65vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+>>>>>>> 9e508596ab82be97d14aa59133edbfa6f65704c2
